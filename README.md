@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nourhan Ayman</h1>
 <h3 align="center">A passionate Flutter Developer 📍</h3>
-<img align="right" alt="coding" weight="300" src="https://raw.githubusercontent.com/MarcosEllys/challenges/master/programmer.gif">
-
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/MarcosEllys/challenges/master/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nourayman644&label=Profile%20views&color=0e75b6&style=flat" alt="nourayman644" /> </p>
+
+- 🔭 I’m currently student **at BFCAI**
+
+- 🌱 I’m currently learning **Flutter and Ui/UX and Interested in problem solving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
