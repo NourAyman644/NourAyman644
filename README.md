@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently student **at BFCAI**
 
-- 🌱 I’m currently learning **Flutter and Ui/UX and Interested in problem solving**
+- 🌱 I’m currently learning **Flutter and Interested in problem solving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
